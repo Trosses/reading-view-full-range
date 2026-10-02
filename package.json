@@ -1,0 +1,15 @@
+{
+  "name": "reading-view-full-range",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Keep the active native Reading View fully rendered.",
+  "license": "MIT",
+  "scripts": {
+    "check": "node --check main.js",
+    "test": "node --test",
+    "release-check": "node scripts/release-check.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
