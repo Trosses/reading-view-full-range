@@ -8,7 +8,9 @@ Long notes can use more RAM and take longer to render. The impact depends on the
 
 ## Compatibility
 
-Requires Obsidian **1.13.7** or newer. The plugin uses internal Reading View behavior outside the public API, so Obsidian updates may require a compatibility fix. If an incompatibility notice appears, disable the plugin and check for an update.
+Requires Obsidian **1.13.7** or newer. Confirmed working on Obsidian **1.14.4**.
+
+The plugin uses internal Reading View behavior outside the public API, so Obsidian updates may require a compatibility fix. If an incompatibility notice appears, disable the plugin and check for an update.
 
 ## Manual installation
 
